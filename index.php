@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NUIT NOVA</title>
-    <?php require_once('asset/php-sections/css.php') ;?>
+    <?php require_once('asset/php-static-sections/css.php') ;?>
 </head>
 <body>
 
 <?php require_once('php-main/hyperexponentia.php') ;?>
 
 <footer>
-    <?php require_once('asset/php-sections/js.php') ?>
+    <?php require_once('asset/php-static-sections/js.php') ?>
 </footer>
 </body>
 </html>
