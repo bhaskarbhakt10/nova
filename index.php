@@ -8,11 +8,8 @@
     <?php require_once('asset/php-sections/css.php') ;?>
 </head>
 <body>
-    
 
-
-
-
+<?php require_once('php-main/hyperexponentia.php') ;?>
 
 <footer>
     <?php require_once('asset/php-sections/js.php') ?>
